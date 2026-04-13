@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Only track these files
+!.gitignore
+!settings.json
+!hooks/
+!hooks/*.sh
