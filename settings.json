@@ -52,7 +52,8 @@
   },
   "permissions": {
     "allow": [
-      null
+      null,
+      "Bash(python download_profiles.py 2>&1)"
     ]
   }
 }
